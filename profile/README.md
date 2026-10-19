@@ -23,9 +23,8 @@ A cross-platform application that converts music links between different streami
 ## Technology Stack
 
 We primarily work with:
-- **Flutter** - Cross-platform app development
+- **C#** - ASP NET and Cross-platform development
 - **TypeScript** - Web development
-- **C#** - ASP NET development
 
 ## Contributing
 
